@@ -1,2 +1,2 @@
 # gbcsoft-website
-GBCSOFT Website
+GBCSOFT Website.
